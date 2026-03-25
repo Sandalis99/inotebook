@@ -1,0 +1,4 @@
+DELETE http://localhost:5000/api/notes/deletenote/695bac619c41f75832217446
+Content-Type: application/json
+auth-token: yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjk1OTE0OTI0ZmY2YmNkOTRiOTBhZjFiIn0sImlhdCI6MTc2NzQ2OTA2OX0.pY790c2nigKQ8jkjvyGEP7A0i6-eBfGhDFYUKW-Kbtw
+

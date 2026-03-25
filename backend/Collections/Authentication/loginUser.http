@@ -1,0 +1,28 @@
+### Login User
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "test10@gmail.com",
+  "password": "scam2021"
+}
+
+
+### Login User
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "test11@gmail.com",
+  "password": "scam2021"
+}
+
+
+### Login User
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "test12@gmail.com",
+  "password": "scam2021"
+}

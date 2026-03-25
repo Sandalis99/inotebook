@@ -1,0 +1,22 @@
+### Create User
+POST http://localhost:5000/api/auth/createuser
+Content-Type: application/json
+
+{
+  "name": "Sandali Singh",
+  "email": "test10@gmail.com",
+  "password": "scam2021"
+}
+
+
+
+### Create User
+POST http://localhost:5000/api/auth/createuser
+Content-Type: application/json
+
+{
+  "name": "Sandali Singh",
+  "email": "test11@gmail.com",
+  "password": "scam2021"
+}
+
